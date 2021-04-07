@@ -7,8 +7,7 @@
 function duck(){
     echo "quack";
 }
-?>
-=======
+
 //comment from github repo w/ function
 function cow(){
 echo "moo";
