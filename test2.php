@@ -3,7 +3,6 @@
 
 //second comment on vs
 
-<<<<<<< HEAD
 //merging; function from vscode
 function duck(){
     echo "quack";
